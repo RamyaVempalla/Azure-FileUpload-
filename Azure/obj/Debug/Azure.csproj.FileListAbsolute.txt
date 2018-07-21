@@ -1,0 +1,15 @@
+c:\users\ramya.vempalla\source\repos\Azure\Azure\obj\Debug\Azure.csprojAssemblyReference.cache
+c:\users\ramya.vempalla\source\repos\Azure\Azure\obj\Debug\Azure.csproj.CoreCompileInputs.cache
+c:\users\ramya.vempalla\source\repos\Azure\Azure\bin\Debug\Azure.exe.config
+c:\users\ramya.vempalla\source\repos\Azure\Azure\bin\Debug\Azure.exe
+c:\users\ramya.vempalla\source\repos\Azure\Azure\bin\Debug\Azure.pdb
+c:\users\ramya.vempalla\source\repos\Azure\Azure\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+c:\users\ramya.vempalla\source\repos\Azure\Azure\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+c:\users\ramya.vempalla\source\repos\Azure\Azure\bin\Debug\Newtonsoft.Json.dll
+c:\users\ramya.vempalla\source\repos\Azure\Azure\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+c:\users\ramya.vempalla\source\repos\Azure\Azure\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+c:\users\ramya.vempalla\source\repos\Azure\Azure\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+c:\users\ramya.vempalla\source\repos\Azure\Azure\bin\Debug\Newtonsoft.Json.xml
+c:\users\ramya.vempalla\source\repos\Azure\Azure\obj\Debug\Azure.csproj.CopyComplete
+c:\users\ramya.vempalla\source\repos\Azure\Azure\obj\Debug\Azure.exe
+c:\users\ramya.vempalla\source\repos\Azure\Azure\obj\Debug\Azure.pdb
